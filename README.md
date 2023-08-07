@@ -1,6 +1,6 @@
 ## Modelo de Banco de Dados - Sistema de Ordem de Serviço de uma Oficina Mecânica
 
-Este é modelo que representa um sistema de ordem de serviço de uma oficina mecânica.
+Este é um modelo que representa o banco de dados de um sistema de ordem de serviço de uma oficina mecânica.
 
 #### Tabelas
 
